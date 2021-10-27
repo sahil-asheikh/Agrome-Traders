@@ -1,0 +1,32 @@
+1 images minimum
+
+Broccoli
+Cauliflower
+Capsicum
+Green Peas
+Potato
+Garlic
+French Beans
+Beet Root
+Okra
+Onion
+Pumkin
+Mango
+Papaya
+Jamun
+Sweet Corn
+Bitterguard
+Custard
+Apple
+
+
+
+Services:
+	Service List
+	1 line description for each services
+Products:
+	1 line description for each products
+Contact:
+	Location Google map link
+	E-mail address
+
